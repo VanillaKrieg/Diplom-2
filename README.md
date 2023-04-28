@@ -1,1 +1,1 @@
-# Graduation project. API test coverage of an online diner
+# Graduation project. API tests coverage of an online diner
